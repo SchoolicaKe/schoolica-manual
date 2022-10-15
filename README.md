@@ -1,0 +1,1 @@
+# schoolica-manual
